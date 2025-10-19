@@ -11,7 +11,7 @@
 
  let player = {
     Name: "Taras",
-    Chips: 145
+    Chips: 140
 
  }
 
