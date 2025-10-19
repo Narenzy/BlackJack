@@ -76,11 +76,6 @@ function getRandomCard() {
      renderGame()
      }   
  }
-// function getRandom1to11() {
-//  return Math.floor(Math.random() * 11) + 1;
-// }
-
-
 // let feuteredPosted = 
 //    ["Chek out my Netflix clone",
 //     "Here is code for my Projects",
